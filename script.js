@@ -43,9 +43,9 @@ togglePassword.addEventListener("click", () => {
 });
 
 // بيانات تسجيل الدخول
-const validUsername = "abdelazez mohamed ibrahem";
+const validUsername = "khaled marzoq";
 const validPassword = "SsOii<>O";
-const validPhone = "0553821110";
+const validPhone = "050566999+";
 
 // تسجيل الدخول
 form.addEventListener("submit", function (e) {
